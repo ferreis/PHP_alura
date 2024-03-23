@@ -8,7 +8,7 @@ Olá a todos! Este repositório é dedicado às minhas aulas de PHP no curso da 
 
 Aqui estão alguns dos códigos que escrevi quando estava aprendendo o básico do PHP:
 
-- `bengin.php`: Este é o código mais básico possível, apenas "Boas-vindas ao universo do PHP!" e "Olá mundo!" no PHP usando o Echo[^bengin.php^](https://github.com/ferreis/Alura_Curso_PHP/blob/main/basico/begin.php).
+- [`bengin.php`](https://github.com/ferreis/Alura_Curso_PHP/blob/main/basico/begin.php): Este é o código mais básico possível, apenas "Boas-vindas ao universo do PHP!" e "Olá mundo!" no PHP usando o Echo.
 - `codicao.php`: Este código PHP determina se uma pessoa pode ou não entrar em um local com base na idade, número de pessoas e uma condição adicional[^codicao.php^](https://github.com/ferreis/Alura_Curso_PHP/blob/main/basico/codicao.php).
 - `problema-precisao.php`: Este script demonstra um problema comum de precisão em números de ponto flutuante e como resolvê-lo multiplicando os números por 10 antes de somá-los e depois dividindo o resultado por 10[^problema-precisao.php^](https://github.com/ferreis/Alura_Curso_PHP/blob/main/basico/problema-precisao.php).
 - `repeticao.php`: Este script mostra o uso de estruturas de repetição em PHP, como `while` e `for`. Ele também demonstra o uso de `continue` e `break` dentro de um loop[^repeticao.php^](https://github.com/ferreis/Alura_Curso_PHP/blob/main/basico/repeticao.php).
