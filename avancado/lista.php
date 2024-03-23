@@ -23,3 +23,5 @@ echo $lista["chave1"]; // Saída: valor1
  os índices numéricos começam em 0 no PHP, enquanto as chaves associativas são strings que você atribui manualmente.
  O método de acesso depende do tipo de array que você está utilizando.
  */
+
+
