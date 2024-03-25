@@ -50,8 +50,12 @@ Aqui estão alguns dos códigos que escrevi quando estava aprendendo o básico d
 - [`compact_e_extract.php`](https://github.com/ferreis/Alura_Curso_PHP/blob/main/avancado/Manupulacao-colecoes-arrays/compact_e_extract.php):Este script demonstra o uso das funções `extract()` e `compact()`. A função `extract()` é usada para importar variáveis a partir de um array associativo. A função `compact()` faz o oposto de `extract()`: ela cria um array a partir de variáveis.
 
 ### Manipulando textos 
-- [`string_dentro_da_outra.php`](): 
-- [`url.php`]():
+- [`aparando_strings.php`](): Este script demonstra como usar as funções `trim`, `ltrim` e `rtrim` para remover caracteres do início e do fim de uma string.
+- [`string_dentro_da_outra.php`](): Este script verifica se uma string contém outra string usando a função `str_contains`.
+- [`telefones.php`](): Este script demonstra como juntar elementos de um array em uma string usando a função `implode`.
+- [`teste_com_mb_case.php`](): Este script demonstra como converter uma string para um determinado tipo de capitalização usando a função `mb_convert_case`.
+- [`url.php`](): Este script verifica se uma string começa ou termina com outra string usando as funções `str_starts_with` e `str_ends_with`.
+- [`usuario.php`](): Este script demonstra várias operações com strings, como verificar o comprimento de uma string, encontrar a posição de uma substring em uma string, extrair uma parte de uma string, converter uma string para maiúsculas ou minúsculas, e dividir uma string em um array.
 
 ## Próximos passos
 
