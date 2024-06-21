@@ -52,11 +52,11 @@ Aqui estão alguns dos códigos que escrevi quando estava aprendendo o básico d
 ### Manipulando textos 
 - [`aparando_strings.php`](avancado/Manipulando_textos/aparando_strings.php): Este script demonstra como usar as funções `trim`, `ltrim` e `rtrim` para remover caracteres do início e do fim de uma string.
 - [`email.php`](avancado/Manipulando_textos/email.php):Função PHP que gera emails personalizados com Heredoc, Nowdoc e variáveis para contato profissional.
-- [`html.php `](avancado/Manipulando_textos/html.php):
-- [`regex.php `](avancado/Manipulando_textos/regex.php):
+- [`html.php `](avancado/Manipulando_textos/html.php):Demonstração de uso das funções addslashes() e htmlentities() em PHP para escapar caracteres especiais em strings
+- [`regex.php `](avancado/Manipulando_textos/regex.php):Validação de números de telefone usando expressões regulares em PHP. O script verifica se os números de telefone seguem o formato (código de área) 9? (espaço) NNNNN-NNNN, onde o código de área é composto por 2 dígitos e a primeira parte do número e a segunda parte do número têm 4 dígitos cada.
 - [`string_dentro_da_outra.php`](avancado/Manipulando_textos/string_dentro_da_outra.php): Este script verifica se uma string contém outra string usando a função `str_contains`.
-- [`strings_numericas.php`](avancado/Manipulando_textos/strings_numericas.php):
-- [`- substituicoes.php`](avancado/Manipulando_textos/substituicoes.php):
+- [`strings_numericas.php`](avancado/Manipulando_textos/strings_numericas.php): Este script verifica se uma string contém apenas números e calcula a idade com base no ano de nascimento. O PHP converte automaticamente strings numéricas para inteiros. 
+- [`substituicoes.php`](avancado/Manipulando_textos/substituicoes.php):Este script utiliza as funções str_replace e strtr para substituir palavras e caracteres em uma string.
 - [`telefones.php`](avancado/Manipulando_textos/telefones.php): Este script demonstra como juntar elementos de um array em uma string usando a função `implode`.
 - [`teste_com_mb_case.php`](avancado/Manipulando_textos/teste_com_mb_case.php): Este script demonstra como converter uma string para um determinado tipo de capitalização usando a função `mb_convert_case`.
 - [`url.php`](avancado/Manipulando_textos/url.php): Este script verifica se uma string começa ou termina com outra string usando as funções `str_starts_with` e `str_ends_with`.
