@@ -51,7 +51,12 @@ Aqui estão alguns dos códigos que escrevi quando estava aprendendo o básico d
 
 ### Manipulando textos 
 - [`aparando_strings.php`](avancado/Manipulando_textos/aparando_strings.php): Este script demonstra como usar as funções `trim`, `ltrim` e `rtrim` para remover caracteres do início e do fim de uma string.
+- [`email.php`](avancado/Manipulando_textos/email.php):Função PHP que gera emails personalizados com Heredoc, Nowdoc e variáveis para contato profissional.
+- [`html.php `](avancado/Manipulando_textos/html.php):
+- [`regex.php `](avancado/Manipulando_textos/regex.php):
 - [`string_dentro_da_outra.php`](avancado/Manipulando_textos/string_dentro_da_outra.php): Este script verifica se uma string contém outra string usando a função `str_contains`.
+- [`strings_numericas.php`](avancado/Manipulando_textos/strings_numericas.php):
+- [`- substituicoes.php`](avancado/Manipulando_textos/substituicoes.php):
 - [`telefones.php`](avancado/Manipulando_textos/telefones.php): Este script demonstra como juntar elementos de um array em uma string usando a função `implode`.
 - [`teste_com_mb_case.php`](avancado/Manipulando_textos/teste_com_mb_case.php): Este script demonstra como converter uma string para um determinado tipo de capitalização usando a função `mb_convert_case`.
 - [`url.php`](avancado/Manipulando_textos/url.php): Este script verifica se uma string começa ou termina com outra string usando as funções `str_starts_with` e `str_ends_with`.
