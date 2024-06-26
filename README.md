@@ -1,9 +1,8 @@
 ![A imagem apresenta um tema vibrante e colorido relacionado ao aprendizado de PHP, uma linguagem de programação. O foco central da imagem é o texto grande e em negrito “APRENDENDO PHP” em cores degradê rosa e azul brilhantes. Ao redor desse texto, há vários elementos que sugerem um ambiente de aprendizado ou educacional: livros espalhados, abertos e fechados, com páginas visíveis, flutuando contra um fundo azul escuro pontilhado com pequenas estrelas ou pontos, dando a impressão de espaço ou um cenário abstrato. No canto inferior direito, há um personagem ilustrado com cabelos roxos, sentado e lendo um livro com atenção, implicando engajamento estudioso. A composição geral transmite o conceito de imersão no estudo de PHP em meio a um mar de conhecimento representado pelos livros. 📚](https://github.com/ferreis/Alura_Curso_PHP/assets/7143672/e2321876-d43c-462a-bb4c-16d0952f33f5)
+![Static Badge](https://img.shields.io/badge/Status_do_curso-Completo-green?style=for-the-badge)
 
 Olá a todos! Este repositório é dedicado às minhas aulas de PHP no curso da Alura. Estarei atualizando este README.md conforme eu for aprendendo.
-[![Static Badge](https://img.shields.io/badge/Curso-Completo-green) 
-](https://img.shields.io/badge/Status_do_curso-Completo-green)?style=for-the-badge
-)
+
 ## O que eu aprendi
 
 ### Básico
